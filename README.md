@@ -32,7 +32,7 @@ When designing a logging system for Persistent Memory, developers face a fundame
 ```
 .
 ├── ag_log_experiment.py    # Main experiment script with all simulation and implementation logic
-├── results/                # Directory for generated plots and CSV results after a run
+├── results/(results。zip)  # Directory for generated plots and CSV results after a run
 │   ├── fig5_throughput.pdf
 │   ├── fig6_latency.pdf
 │   ├── fig7_waf.pdf
